@@ -1,0 +1,11 @@
+gdown 
+pandas
+syllables
+bs4
+requests
+pydrive
+nltk
+spacy
+pyaml
+lxml
+openpyxl

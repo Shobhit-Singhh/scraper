@@ -1,0 +1,26 @@
+google_drive:
+  file_id: "your_google_drive_file_id"
+  output_directory: "path/to/local/directory"
+  local_file_name: "local_filename.csv"
+  overwrite: false
+
+dictionary:
+  positive_dictionary_path: "data/positive-words.txt"
+  negative_dictionary_path: "data/negative-words.txt"
+  custom_stopword_folder: "data/StopWords"
+  encodings:
+    - "utf-8"
+    - "latin-1"
+
+web_scraper:
+  url: "https://insights.blackcoffer.com/rising-it-cities-and-its-impact-on-the-economy-environment-infrastructure-and-city-life-by-the-year-2040-2/"
+  headers:
+    User-Agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  parser: "html.parser"
+  element: "div"
+  class_name: "td-post-content"
+  strip: true
+
+
+
+
