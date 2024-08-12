@@ -6,6 +6,11 @@ Hello, LinkedIn community! 👋 I'm excited to share a project that I've been wo
 
 I have developed a web scraper along with a program that iterates through an Excel file containing links to web pages. The program extracts text from each page and performs a comprehensive analysis using various NLP techniques.
 
+
+## New Update: 
+UtilizedLatentDirichletAllocation(LDA),textprocessing(regularexpression,stemming&cleaning),andvectorization methods (BOW, N-gram, tf-idf) to analyze sentiment & train a Customer review classification model on a Kaggle dataset, please check code file(Sentiment_Analysis-2.ipynb)
+
+
 ## Key Features:
 
 - **Sentiment Analysis:**
@@ -59,3 +64,8 @@ Feel free to reach out! 🚀
 \#NLP #WebScraping #DataAnalysis #SentimentAnalysis #TextClassification #PythonDeveloper #LinkedIn #TechEnthusiast
 
 Let's connect and discuss the exciting possibilities! 🌐🤝
+
+
+
+
+
