@@ -8,7 +8,7 @@ I have developed a web scraper along with a program that iterates through an Exc
 
 
 ## New Update: 
-UtilizedLatentDirichletAllocation(LDA),textprocessing(regularexpression,stemming&cleaning),andvectorization methods (BOW, N-gram, tf-idf) to analyze sentiment & train a Customer review classification model on a Kaggle dataset, please check code file(Sentiment_Analysis-2.ipynb)
+Utilized Latent Dirichlet Allocation(LDA), textprocessing (regularexpression, stemming&cleaning), and vectorization methods (BOW, N-gram, tf-idf) to analyze sentiment & train a Customer review classification model on a Kaggle dataset, please check code file(Sentiment_Analysis-2.ipynb)
 
 
 ## Key Features:
